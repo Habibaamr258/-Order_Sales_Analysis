@@ -1,4 +1,4 @@
-his project demonstrates an end-to-end data analytics workflow using Power BI, starting from raw data cleaning to data modeling and interactive dashboard creation.
+This project demonstrates an end-to-end data analytics workflow using Power BI, starting from raw data cleaning to data modeling and interactive dashboard creation.
 
  Data Cleaning & Preparation
 
