@@ -1,6 +1,6 @@
 This project demonstrates an end-to-end data analytics workflow using Power BI, starting from raw data cleaning to data modeling and interactive dashboard creation.
 
- Data Cleaning & Preparation
+.Data Cleaning & Preparation
 
 Imported raw Excel data into Power BI.
 
@@ -10,7 +10,7 @@ Cleaned categorical columns by removing extra spaces and standardizing text valu
 
 Removed duplicates and handled inconsistent values to ensure data quality.
 
-Data Modeling
+.Data Modeling
 
 Designed a Star Schema with:
 
@@ -24,7 +24,7 @@ Customer Dimension containing descriptive customer attributes.
 
 Established one-to-many relationships with single-direction filtering for optimal performance.
 
-Measures & Calculations
+.Measures & Calculations
 
 Created DAX measures for key KPIs, including:
 
